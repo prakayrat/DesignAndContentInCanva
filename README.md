@@ -3,7 +3,8 @@ Book for sale
 
 สั่งซื้อ คลิกที่นี่ https://www.mebmarket.com/index.php?action=BookDetails&book_id=250777   
 
-![19](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/0fc83de7-c752-4923-a866-1f6b11f5fcdd)
+![19_2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/45818e45-e10e-4ad4-a6c7-a9edac356279)
+
 
 
 ภายในหนังสือ มี 12 บท แบ่งเป็น 3 ส่วน   
@@ -16,7 +17,8 @@ Book for sale
 -  ส่วนที่ 3: สร้างคอนเทนต์และโปรโมตผ่านโซเชียลมีเดีย   
 
 
-![20](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/7b2d817b-98b7-4f38-85d4-43698ae91b20)
+![20_2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/cd3395f8-faa2-41c3-ac48-f3835bcd0cdf)
+
 
 
 ผู้อ่านสามารถสร้างงานดีไซน์ได้ ทั้งที่ทำงานหรือที่บ้าน ได้ไม่จำกัดจำนวน บนแพลตฟอร์ม ทั้งบนเดสก์ท็อป และแอปบนสมาร์ทโฟน โดยใช้เทมเพลตที่สร้างไว้ล่วงหน้า หรือสร้างขึ้นใหม่ตั้งแต่ต้น 
@@ -29,5 +31,6 @@ Book for sale
 
 ###### ตัวอย่าง งานดีไซน์บางส่วน ในหนังสือ
 
-![ex](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/e1c7d681-dda4-49f2-9c4f-a7bb38bd5202)
+![ex2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/4bfc2b73-a2ba-4b0b-adc4-8557d697b586)
+
 
