@@ -29,8 +29,19 @@ Book for sale
 
 ###### ** เหนือสิ่งอื่นใด Canva เป็นแพลตฟอร์มที่มองเห็นได้ง่าย ใช้งานง่าย และใช้งานได้อย่างสนุกสนาน 
 
-###### ตัวอย่าง งานดีไซน์บางส่วน ในหนังสือ
+###### ตัวอย่าง งานดีไซน์ ใน Canva!!
 
 ![ex2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/4bfc2b73-a2ba-4b0b-adc4-8557d697b586)
 
+และสามารถเลือกชมผลงานอื่นๆ มากมายใน Canva
+![3](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/1ba3c4f9-e361-4219-a919-d09ea452d817)
+![2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/ac61d595-bb4d-4b52-8ad0-84d7420f1a6a)
+![1](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/f63888b9-dc39-4309-b7cb-731a8cd10afc)
+![4](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/a957d4a2-e1e1-44a0-b12e-60eda4911d91)
+![10](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/7d12424d-1c03-47bf-afad-7bd5cde6a74d)
+![9](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/5894646b-3434-4c2e-9959-88eab724db56)
+![8](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/3c0eed02-aa44-4866-8fba-18be078d42b3)
+![7](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/2b865e1f-af2c-409d-9e64-2d03ba3cface)
+![6](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/f0ca09ff-bc30-4946-9ae8-3e674aede928)
+![5](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/c3e63542-959b-43a2-8d19-2f8729659a12)
 
