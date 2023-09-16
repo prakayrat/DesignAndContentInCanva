@@ -29,6 +29,18 @@ Book for sale
  
 ###### ** เหนือสิ่งอื่นใด Canva เป็นแพลตฟอร์มที่มองเห็นได้ง่าย ใช้งานง่าย และใช้งานได้อย่างสนุกสนาน    
 
+***
+
+  
+ติดต่อผู้เขียน
+amornwit.bookwork@gmail.com
+
+รับงานสอน และจัดอบรม
+
+
+
+***   
+
 ###### ตัวอย่าง งานดีไซน์ ใน Canva!!   
 
 ![ex2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/84366050-998f-4087-959e-427aa62e3267)
