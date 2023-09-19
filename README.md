@@ -3,9 +3,8 @@ Book for sale
 
 สั่งซื้อ คลิกที่นี่ https://www.mebmarket.com/index.php?action=BookDetails&book_id=250777   
 
-![19_2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/45818e45-e10e-4ad4-a6c7-a9edac356279)
-
-
+![19_2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/bd92a1e4-5f55-4348-9602-d3cdaa0aac9d)
+   
 
 ภายในหนังสือ มี 12 บท แบ่งเป็น 3 ส่วน   
 
