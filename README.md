@@ -58,7 +58,6 @@ amornwit.bookwork@gmail.com
 ![7](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/2b865e1f-af2c-409d-9e64-2d03ba3cface)
 ![6](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/f0ca09ff-bc30-4946-9ae8-3e674aede928)
 ![5](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/c3e63542-959b-43a2-8d19-2f8729659a12)
-![12](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/07ab20e5-ea42-464a-ab90-bbc80db814fa)
 ![11](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/e5c0d94c-dd99-4331-b353-293b7f6b24c3)
 ![video](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/2826ed5f-294f-4634-84de-7e57a4bbdf8d)
 
