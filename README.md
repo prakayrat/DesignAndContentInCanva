@@ -43,7 +43,9 @@ amornwit.bookwork@gmail.com
 
 ###### ตัวอย่าง งานดีไซน์ ใน Canva!!   
 
-![ex2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/84366050-998f-4087-959e-427aa62e3267)
+![git2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/0a093026-1c17-43fc-8723-fb2c09d00382)
+![git1](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/78b59773-3a27-4e3d-bfc1-85e029c5a861)
+
 
 
 ###### และสามารถเลือกชมผลงานอื่นๆ มากมายใน Canva   
@@ -52,7 +54,6 @@ amornwit.bookwork@gmail.com
 ![1](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/f63888b9-dc39-4309-b7cb-731a8cd10afc)
 ![4](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/a957d4a2-e1e1-44a0-b12e-60eda4911d91)
 ![AI](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/1b9d7a2b-5a97-45d2-97dd-124bb6a18cd2)
-
 ![10](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/7d12424d-1c03-47bf-afad-7bd5cde6a74d)
 ![9](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/5894646b-3434-4c2e-9959-88eab724db56)
 ![8](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/3c0eed02-aa44-4866-8fba-18be078d42b3)
