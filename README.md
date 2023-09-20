@@ -1,8 +1,11 @@
 # หนังสือ สร้างงานดีไซน์ & คอนเทนต์ ด้วย Canva, 2566
 Book for sale
 
-สั่งซื้อ คลิกที่นี่ https://www.mebmarket.com/index.php?action=BookDetails&book_id=250777   
-
+***
+สั่งซื้อ คลิกที่นี่ https://www.mebmarket.com/index.php?action=BookDetails&book_id=250777  
+หรือ https://www.ookbee.com/shop/book/583433ff-d63a-407e-b78e-3959d84eb5ae/สร้างงานดีไซน์-คอนเทนต์-ด้วย-canva    
+***
+   
 ![19_2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/bd92a1e4-5f55-4348-9602-d3cdaa0aac9d)
    
 
