@@ -3,9 +3,9 @@ Book for sale
 
 ***
 สั่งซื้อ คลิกที่นี่    
-[หนังสือสร้างงานดีไซน์&คอนเทนต์ด้วย Canva @ mebmarket : ](https://www.mebmarket.com/index.php?action=BookDetails&book_id=250777)     
+[หนังสือสร้างงานดีไซน์ & คอนเทนต์ ด้วย Canva @ mebmarket : ](https://www.mebmarket.com/index.php?action=BookDetails&book_id=250777)        
 หรือ    
-[หนังสือสร้างงานดีไซน์&คอนเทนต์ด้วย Canva @ ookbee : ](https://www.ookbee.com/shop/book/583433ff-d63a-407e-b78e-3959d84eb5ae/สร้างงานดีไซน์-คอนเทนต์-ด้วย-canva)    
+[หนังสือสร้างงานดีไซน์ & คอนเทนต์ ด้วย Canva @ ookbee : ](https://www.ookbee.com/shop/book/583433ff-d63a-407e-b78e-3959d84eb5ae/สร้างงานดีไซน์-คอนเทนต์-ด้วย-canva)        
 
 ***
    
