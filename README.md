@@ -7,7 +7,7 @@ Book for sale
 หรือ    
 [หนังสือสร้างงานดีไซน์ & คอนเทนต์ ด้วย Canva @ ookbee](https://www.ookbee.com/shop/book/583433ff-d63a-407e-b78e-3959d84eb5ae/สร้างงานดีไซน์-คอนเทนต์-ด้วย-canva)        
 หรือ    
-[Chula Book](https://www.chulabook.com/)   
+[CHULA BOOK](https://www.chulabook.com/categories?text=ประกายรัตน์) 
 
 ***   
    
