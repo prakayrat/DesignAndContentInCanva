@@ -10,6 +10,10 @@ Book for sale
 [CHULA BOOK](https://www.chulabook.com/categories?text=ประกายรัตน์) 
 
 ***   
+
+หมายเหตุ ในปี 2568 นี้ คณะผู้เขียน จะปรับเปลี่ยน และเรียบเรียงเนื้อหาใหม่ ทั้งเล่ม สอดแทรกฟีเจอร์ใหม่ๆ โดยเฉพาะ AI 
+   ... แล้วพบกันเล่มหน้า ...
+   --- ขอบคุณทุกท่านที่ติดตามผลงาน ...
    
 ![19_2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/bd92a1e4-5f55-4348-9602-d3cdaa0aac9d)
    
