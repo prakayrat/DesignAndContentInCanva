@@ -1,3 +1,9 @@
+มิถุนายน 2568 นี้ คณะผู้เขียน ได้แต่งและเรียบเรียงเนื้อหาใหม่ ทั้งเล่ม สอดแทรกฟีเจอร์ใหม่ ๆ โดยเฉพาะ AI 
+   ... แล้วพบกันเล่มหน้า ...
+   --- ขอบคุณทุกท่านที่ติดตามผลงาน ...
+   ![eBook-วางจำหน่าย1](https://github.com/user-attachments/assets/4da3e604-67ca-4d3d-b3c7-77718a3c3aa4)
+    
+***********
 # หนังสือ สร้างงานดีไซน์ & คอนเทนต์ ด้วย Canva, 2566
 Book for sale
 
@@ -10,12 +16,6 @@ Book for sale
 [CHULA BOOK](https://www.chulabook.com/categories?text=ประกายรัตน์) 
 
 ***   
-
-หมายเหตุ มิถุนายน 2568 นี้ คณะผู้เขียน ได้แต่งและเรียบเรียงเนื้อหาใหม่ ทั้งเล่ม สอดแทรกฟีเจอร์ใหม่ ๆ โดยเฉพาะ AI 
-   ... แล้วพบกันเล่มหน้า ...
-   --- ขอบคุณทุกท่านที่ติดตามผลงาน ...
-   ![eBook-วางจำหน่าย1](https://github.com/user-attachments/assets/4da3e604-67ca-4d3d-b3c7-77718a3c3aa4)
-    
 ![19_2](https://github.com/prakayrat/DesignAndContentInCanva/assets/51775195/bd92a1e4-5f55-4348-9602-d3cdaa0aac9d)
    
 
